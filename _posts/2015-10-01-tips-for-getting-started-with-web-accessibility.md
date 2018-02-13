@@ -16,7 +16,7 @@ date: 2015-10-01
 
       </ul>
 
-      <p>We welcome your input on improving these pages. Near the bottom of each page are links to GitHub and e-mail for comments. (<span class="date">2015-10-01</span>)</p>
+      <p>We welcome your input on improving these pages. Near the bottom of each page are links to GitHub and e-mail for comments.</p>
 
       
 

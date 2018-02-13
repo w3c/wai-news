@@ -6,4 +6,4 @@ date: 2017-06-06
 
         
 
-        implementation information or comments by <strong>7 July 2017</strong>. (<span class="date">2017-06-06</span>)</p>
+        implementation information or comments by <strong>7 July 2017</strong>.</p>

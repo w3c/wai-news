@@ -16,4 +16,4 @@ date: 2015-04-30
 
         <li><a href="http://www.w3.org/WAI/mobile/">Mobile Accessibility</a> to learn about related work.</li>
 
-      </ul><p><span class="description">The IndieUI Working Group is currently exploring moving this work to other Working Groups; however, comments on these drafts are still welcomed, preferably by 29 May 2015. (<span class="date">2015-04-30</span>)</span></p>
+      </ul><p><span class="description">The IndieUI Working Group is currently exploring moving this work to other Working Groups; however, comments on these drafts are still welcomed, preferably by 29 May 2015.</span></p>

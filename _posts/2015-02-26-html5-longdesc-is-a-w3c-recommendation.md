@@ -6,4 +6,4 @@ date: 2015-02-26
 
         
 
-        is used to provide links to detailed descriptions of images. More information is available in the <a href="https://lists.w3.org/Archives/Public/w3c-wai-ig/2015JanMar/0162.html">HTML5 Image Description Extension (longdesc) is a W3C Recommendation e-mail</a>. (<span class="date">2015-02-26</span>)</p>
+        is used to provide links to detailed descriptions of images. More information is available in the <a href="https://lists.w3.org/Archives/Public/w3c-wai-ig/2015JanMar/0162.html">HTML5 Image Description Extension (longdesc) is a W3C Recommendation e-mail</a>.</p>

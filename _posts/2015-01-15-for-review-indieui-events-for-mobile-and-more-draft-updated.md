@@ -12,4 +12,4 @@ date: 2015-01-15
 
         <li><a href="http://www.w3.org/WAI/mobile/">Mobile Accessibility</a> to learn about related work.</li>
 
-      </ul><p>Please send comments on this draft by 13 February 2015. (<span class="date">2015-01-15</span>)</p>
+      </ul><p>Please send comments on this draft by 13 February 2015.</p>
