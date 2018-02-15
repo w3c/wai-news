@@ -45,7 +45,7 @@ defaults:
     scope:
       path: "_posts"
     values:
-      layout: "sidenav"
+      layout: "default"
 
 plugins:
   - jekyll-seo-tag
