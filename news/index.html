@@ -40,10 +40,10 @@ layout: default
       <li>{% if paginator.previous_page %}
         <a href="{{ paginator.previous_page_path | relative_url }}" class="previous">Previous</a>
       {% else %}
-        <span class="previous">Previous</span>
+        <span class="like-a previous">Previous</span>
       {% endif %}</li>
       {%- if paginator.page == 1 -%}
-      <li class="is-active">1</li>
+      <li class="is-active"><span class="like-a">1</span></li>
       {%- else -%}
       <li><a href="{{ "/news/" | relative_url }}">1</a></li>
       {%- endif -%}
@@ -56,7 +56,7 @@ layout: default
       {%- if i > maxbound -%}{%- assign render = false -%}{%- endif -%}
       {%- if render -%}
       {%- if paginator.page == i -%}
-      <li class="is-active">{{i}}</li>
+      <li class="is-active"><span class="like-a">{{i}}</span></li>
       {%- else -%}
       <li><a href="{{ "/news/" | append: i | append: "/" | relative_url }}">{{i}}</a></li>
       {%- endif -%}
@@ -66,14 +66,14 @@ layout: default
       <li>…</li>
       {%- endunless -%}
       {%- if paginator.page == paginator.total_pages -%}
-      <li class="is-active">{{paginator.total_pages}}</li>
+      <li class="is-active"><li class="is-active"><span class="like-a">{{paginator.total_pages}}</span></li>
       {%- else -%}
       <li><a href="{{ "/news/" | append: paginator.total_pages | append: "/" | relative_url }}">{{paginator.total_pages}}</a></li>
       {%- endif -%}
       <li>{% if paginator.next_page %}
         <a href="{{ paginator.next_page_path | relative_url }}" class="next">Next</a>
       {% else %}
-        <span class="next ">Next</span>
+        <span class="like-a next">Next</span>
       {% endif %}</li>
     </ul>
   </nav>
