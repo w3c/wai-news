@@ -8,4 +8,3 @@ date: 2017-12-15
 <li><a href="{{ "/planning-and-managing/" | relative_url }}/pol">Developing Organizational Policies on Web Accessibility</a> helps you develop  a simple or comprehensive web accessibility policy for an organization.</li>
 <li><a href="{{ "/planning-and-managing/" | relative_url }}">Planning and Managing Web Accessibility</a> helps you integrate accessibility throughout the web production process. It applies to individual projects and at the organizational level.</li>
 </ul>
-<p>(<span class="date">2016-Dec-15</span>)</p>
