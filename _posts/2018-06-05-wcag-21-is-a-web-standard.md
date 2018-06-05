@@ -1,5 +1,5 @@
 ---
-title: "WCAG 2.1 is a Web Standard "W3C Recommendation""
+title: "WCAG 2.1 is a Web Standard “W3C Recommendation”"
 date: 2018-06-05
 ---
 
