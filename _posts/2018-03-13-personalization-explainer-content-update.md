@@ -1,5 +1,5 @@
 ---
-title: "Personalization Semantics Explainer and Content module updated"
+title: "For Review: Personalization Semantics Explainer and Content module updated"
 date: 2018-03-13
 ---
 
