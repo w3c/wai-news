@@ -1,5 +1,5 @@
 ---
-title: Personalization Semantics Content Module First Public Working Draft, and Personalization Semantics Explainer
+title: "For Review: Personalization Semantics Content Module First Public Working Draft, and Personalization Semantics Explainer"
 date: 2018-02-13
 ---
 
