@@ -1,5 +1,5 @@
 ---
-title: Graphics-ARIA and Graphics-AAM wide review drafts
+title: "For Wide Review: Graphics-ARIA and Graphics-AAM Drafts"
 date: 2018-02-08
 excerpt: "The ARIA WG has published Working Drafts of [WAI-ARIA Graphics Module 1.0](http://www.w3.org/TR/graphics-aria-1.0/) and [Graphics Accessibility API Mappings](http://www.w3.org/TR/graphics-aam-1.0/)."
 ---
