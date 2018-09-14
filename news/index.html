@@ -10,12 +10,14 @@ parent: "/"
 {%- assign postpreviewdate = post.date | date: "%Y-%m-%d" -%}
 {%- assign postpreviewtitle = "</a></strong> (" | prepend: post.title | append: postpreviewdate | append: ")" | prepend: linkstring -%}
 {% include box.html type="start" title=postpreviewtitle h=2 class="large" %}
+{%- comment -%}
 {%- if post.excerpt -%}
 {{ post.excerpt | markdownify }}
 {%- else -%}
 {{ content }}
 {%- endif -%}
-
+{%- endcomment -%}
+{{ post.content }}
 {% include box.html type="end" %}
 {%- endfor -%}
 
