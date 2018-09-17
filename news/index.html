@@ -10,13 +10,6 @@ parent: "/"
 {%- assign postpreviewdate = post.date | date: "%Y-%m-%d" -%}
 {%- assign postpreviewtitle = "</a></strong> (" | prepend: post.title | append: postpreviewdate | append: ")" | prepend: linkstring -%}
 {% include box.html type="start" title=postpreviewtitle h=2 class="large" %}
-{%- comment -%}
-{%- if post.excerpt -%}
-{{ post.excerpt | markdownify }}
-{%- else -%}
-{{ content }}
-{%- endif -%}
-{%- endcomment -%}
 {{ post.content }}
 {% include box.html type="end" %}
 {%- endfor -%}
@@ -79,6 +72,7 @@ parent: "/"
       {% else %}
         <span class="like-a next">Next</span>
       {% endif %}</li>
+      <li style="margin: 0 auto 0 0; order:-1;"><a href="{{"/news/all/" | relative_url}}">All on one Page</a></li>
     </ul>
   </nav>
 </footer>
