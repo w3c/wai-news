@@ -8,7 +8,7 @@ github:
  hide: true
 ---
 
-<p><strong>You can get announcements of new WAI resources, draft documents for review, etc. from:</strong></p>
+<p>You can get announcements of new WAI resources, draft documents for review, etc. from:</p>
 <ul>
   <li><p><strong>WAI Announcement e-mail list</strong> - This list is for announcements from WAI.
     <ul>
