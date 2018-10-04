@@ -1,8 +1,7 @@
 ---
 title: Get WAI News
 layout: default
-exclude_from_search: true
-parent: "/"
+parent: "/news/"
 permalink: "/news/subscribe/"
 github:
  hide: true
