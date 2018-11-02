@@ -22,6 +22,6 @@ github:
   <li><p><strong><a href="http://twitter.com/w3c_wai">W3C_WAI on Twitter</a></strong></p></li>
 </ul>
 
-<p><a href=https://www.youtube.com/channel/UCU6ljj3m1fglIPjSjs2DpRA">WAI YouTube channel</a> has videos and you can subscribe to get notification when we post new videos there.</p>
+<p><strong><a href=https://www.youtube.com/channel/UCU6ljj3m1fglIPjSjs2DpRA">WAI YouTube channel</a></strong> has videos and you can subscribe to get notification when we post new videos there.</p>
  
-<p>WAI News from 2015 to present is listed on the <a href="https://www.w3.org/WAI/news/">News page</a>.</p>
+<p><strong><a href="https://www.w3.org/WAI/news/">News page</a></strong> lists all announcements from 2015 to present.</p>
