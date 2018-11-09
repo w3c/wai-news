@@ -39,7 +39,7 @@ collections:
   posts:
     output: true
     permalink: /news/:year-:month-:day/:title/
-    parent: "/"
+    parent: "/news/"
     repository: "w3c/wai-news"
 
 defaults:
@@ -48,6 +48,7 @@ defaults:
       path: "_posts"
     values:
       layout: "default"
+      parent: "/news/"
 
 plugins:
   - jekyll-seo-tag
