@@ -24,4 +24,4 @@ github:
 
 <p><strong><a href="https://www.youtube.com/channel/UCU6ljj3m1fglIPjSjs2DpRA">WAI YouTube channel</a></strong> has videos and you can subscribe to get notification when we post new videos there.</p>
  
-<p><strong><a href="https://www.w3.org/WAI/news/">News page</a></strong> lists all announcements from 2015 to present.</p>
+<p><strong><a href="https://www.w3.org/WAI/news/">News page</a></strong> lists all announcements from 2015 to present.<br><a href="https://www.w3.org/WAI/highlights/archive">WAI Highlights Archive page</a> lists older news. </p>
