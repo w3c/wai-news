@@ -1,5 +1,5 @@
 ---
-title: Pronunciation Task Force: Seeking Participation
+title: "Pronunciation Task Force: Seeking Participation"
 date: 2018-12-06
 ---
 
