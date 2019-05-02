@@ -57,6 +57,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
   - jekyll-paginate
+  - wai-website-plugin
 
 paginate: 20
 paginate_path: "/news/:num/"
