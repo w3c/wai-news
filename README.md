@@ -1,6 +1,7 @@
 # wai-news
 
-Current Preview:
+Current Preview: https://wai-news.netlify.com/news/
 
-https://w3c.github.io/wai-news/news/
+Live: https://www.w3.org/WAI/news/
+
 
