@@ -1,6 +1,8 @@
 ---
 title: "New Online Course: W3Cx Introduction to Web Accessibility"
 date: 2019-12-03
+github:
+  repository: w3c/wai-news
 ---
 
 [{% include image.html src="2019-12-03-w3cx-accessibility-intro.png" alt="Introduction to Accessibility – W3Cx Course" class="large" %}](https://www.edx.org/course/web-accessibility-introduction)<br>
