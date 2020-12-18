@@ -1,7 +1,2 @@
-# wai-news
-
-Current Preview: https://wai-news.netlify.com/news/
-
-Live: https://www.w3.org/WAI/news/
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e93b0693-105f-4fc9-8819-00a47875e088/deploy-status)](https://app.netlify.com/sites/wai-news/deploys)
 
