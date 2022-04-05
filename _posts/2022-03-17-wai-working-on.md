@@ -1,5 +1,5 @@
 ---
-title: "New page: What’s up at W3C WAI"
+title: "New Page: What’s up at W3C WAI"
 date: 2022-03-17
 ---
 
