@@ -1,5 +1,5 @@
 ---
-title:"ARIA Authoring Practices Guide (APG) - New User Interface"
+title: "ARIA Authoring Practices Guide (APG) - New User Interface"
 date: 2022-05-19
 ---
 
