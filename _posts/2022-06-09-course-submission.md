@@ -1,5 +1,5 @@
 ---
-title:"Accessibility Course List – Submit a course, training, or certification"
+title: "Accessibility Course List – Submit a course, training, or certification"
 date: 2022-06-09
 ---
 
