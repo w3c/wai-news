@@ -1,3 +1,0 @@
-
-<p>The <a href="https://www.w3.org/WAI/APA/">Accessible Platform Architectures Working Group</a> has published  <a href="https://www.w3.org/TR/saur/">Synchronization Accessibility User Requirements</a> as a W3C Group Note. This document outlines accessibility-related user needs and associated requirements for the synchronization of audio and visual media. The document discusses the synchronization of accessibility-related components of multimedia, such as captions, sign language interpretation, and descriptions. The requirements identified herein are applicable to multimedia content in general, as well as real-time communication applications and media occurring in immersive environments.
-</p>
