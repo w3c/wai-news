@@ -1,5 +1,5 @@
 ---
-title: "For Reveiw: Accessibility Maturity Model - Group Draft Note"
+title: "For Review: Accessibility Maturity Model - Group Draft Note"
 date: 2022-09-06
 ---
 
