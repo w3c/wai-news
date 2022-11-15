@@ -27,7 +27,7 @@ You can also get information from:
 <ul>
   <li><strong><a href="https://www.youtube.com/channel/UCU6ljj3m1fglIPjSjs2DpRA">WAI YouTube channel</a></strong> has videos and you can subscribe to get notification when we post new videos there.</li>
   <li><a href="https://www.w3.org/WAI/news/">News page</a> lists all announcements from 2015 to present. <a href="https://www.w3.org/WAI/highlights/archive">WAI Highlights Archive page</a> lists older news.</li>
-  <li><strong><a href="https://www.w3.org/WAI/update/">What We're Working On &mdash; Accessibility Activities and Publications</a></strong> is updated monthly</strong>.	
+  <li><strong><a href="https://www.w3.org/WAI/update/">What We're Working On &mdash; Accessibility Activities and Publications</a></strong> is updated monthly.	
   </li>
 </ul>
 
