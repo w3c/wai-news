@@ -1,5 +1,5 @@
 ---
-title: "Call for Implementations: 'WAI-Adapt: Symbols Module' Candidate Recommendation"
+title: "Call for Implementations: WAI-Adapt: Symbols Module Candidate Recommendation"
 date: 2023-01-05
 ---
 
