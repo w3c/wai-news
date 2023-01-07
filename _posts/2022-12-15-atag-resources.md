@@ -1,5 +1,5 @@
 ---
-title: "New Resources: For CMS, LMS, no-code website builders, and other 'authoring tools'"
+title: "New Resources: For CMS, LMS, no-code website builders, and other authoring tools"
 date: 2022-12-12
 ---
 
