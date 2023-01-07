@@ -1,5 +1,5 @@
 ---
-title: "Invitation: 'Shape the Future: Research and Development Questions in Digital Accessibility' research symposium, online, 10 November 2021"
+title: "Invitation: Shape the Future: Research and Development Questions in Digital Accessibility research symposium, online, 10 November 2021"
 date: 2021-11-10
 ---
 
