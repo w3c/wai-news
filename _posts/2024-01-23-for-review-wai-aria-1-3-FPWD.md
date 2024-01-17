@@ -6,7 +6,12 @@ the Accessible Rich Internet Applications Working
 Group published the First Public Working Draft (FPWD) of [Accessible Rich 
 Internet Applications (WAI-ARIA) 1.3](https://www.w3.org/TR/2024/WD-wai-aria-1.3-20240123/).
 
-The Accessible Rich Internet Applications Working Group seeks feedback on any aspect of the specification. To know what’s changed since WAI-ARIA 1.2, see the [changelog](https://www.w3.org/TR/2024/WD-wai-aria-1.3-20240123/#changelog).
+Major changes since ARIA 1.2 include:
+
+* Addition of new roles, including suggestion, comment, and mark
+* Addition of new properties, including aria-description, aria-braillelabel, and 
+
+The Accessible Rich Internet Applications Working Group seeks feedback on any aspect of the specification.  Additional changes are in the [changelog](https://www.w3.org/TR/2024/WD-wai-aria-1.3-20240123/#changelog).
 
 To share feedback, please open a new issue in the [w3c aria 
 GitHub repository](https://github.com/w3c/aria/issues/new).
