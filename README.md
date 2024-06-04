@@ -1,2 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e93b0693-105f-4fc9-8819-00a47875e088/deploy-status)](https://app.netlify.com/sites/wai-news/deploys)
-
+> [!IMPORTANT]
+> This repository has been archived 4 June 2024.
+>
+> WAI News are now created/edited in the [wai-website](https://github.com/w3c/wai-website) repository.
